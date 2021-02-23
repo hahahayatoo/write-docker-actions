@@ -16,5 +16,5 @@ jobs:
         with:
           thirdGreeting : "hahahayatoo"
 
-      - name:
+      - name: meow
         uses: ./.github/actions/cat-facts
